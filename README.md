@@ -12,6 +12,10 @@ The Couple Relationship Analysis Project aims to explore the dynamics within var
 Through random counseling sessions, the project seeks to identify areas for improvement and enhance understanding of the strengths and weaknesses present in each relationship. 
 By delving into these aspects, we aspire to offer tailored guidance and support to help couples foster healthier and more fulfilling connections.
 
+
+![cpq](https://github.com/Yettybenny/Couples-Questionnaire/assets/145848340/01cac5e5-87e0-471b-958b-e7cd5346b6da)
+
+
 ## Project Documentation: Couple Questionnaire Analysis
 
 
